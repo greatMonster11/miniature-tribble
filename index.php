@@ -1,5 +1,6 @@
 <html>
 <body>
+<p>Le Quang Sang</p>
 <br /><a href="setup.php">Create database</a>
 <br /><a href="add_account.php">Add account</a>
 <br /><a href="list_account.php">List account</a>
