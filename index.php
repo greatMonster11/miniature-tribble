@@ -1,6 +1,6 @@
 <html>
 <head>
-<sytle>
+<style>
 a {
   position: relative;
   display: inline-block;
@@ -8,7 +8,8 @@ a {
    text-decoration: none;
    padding: 5px 10px;
    background: black;
-   color: white; 
+   color: white;
+   margin-bottom: 12px; 
    border: 4px solid mediumseagreen;
    border-radius: 5px;
    text-align: center;
