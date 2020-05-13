@@ -6,7 +6,7 @@
         color: #FF0001;
     }
     input[type=submit] {
- 	padding: 15px 22px;
+ 	padding: 5px 10px;
     }
 </style>
 </head>
