@@ -11,7 +11,7 @@
 <h2>PHP Form validation example</h2>
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
     Username: <input type="text" name="username" value="<?php echo $username;?>" /> <br />    
-    Password: <input type="text" name="password" value="<?php echo $password;?>" /> <br />    
+    Password: <input type="password" name="password" value="<?php echo $password;?>" /> <br />    
     <input type="submit" name="submit" value="Submit" />
 </form>
 <?php
