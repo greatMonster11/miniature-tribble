@@ -5,6 +5,9 @@
     .error {
         color: #FF0001;
     }
+    input[type=submit] {
+ 	padding: 15px 22px;
+    }
 </style>
 </head>
 <body>
