@@ -8,6 +8,9 @@
 </style>
 </head>
 <body>
+<nav> 
+	<a href="/index.php">HOME</a>
+</nav>
 <h2>PHP Form validation example</h2>
 <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">
     Username: <input type="text" name="username" value="<?php echo $username;?>" /> <br />    
